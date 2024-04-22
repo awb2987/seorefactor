@@ -1,2 +1,2 @@
-# Challenge-Week-1
-UofT Bootcamp challenge for week 1
+# seorefactor
+Bootcamp challenge for week 1
